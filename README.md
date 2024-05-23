@@ -4,3 +4,7 @@
 
 #our webpage looks like this
 ![image](https://github.com/ZestyZeeshan/Zest-Fashion/assets/141507225/7c3476e1-4656-442b-b65b-18df3388a486)
+
+#Our looks like this
+![image](https://github.com/ZestyZeeshan/Zest-Fashion/assets/141507225/e5146e28-e542-48bc-9f1c-006c8773c712)
+
